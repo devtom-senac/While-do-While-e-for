@@ -1,0 +1,15 @@
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\bin\Debug\net8.0\Ex.10.exe
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\bin\Debug\net8.0\Ex.10.deps.json
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\bin\Debug\net8.0\Ex.10.runtimeconfig.json
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\bin\Debug\net8.0\Ex.10.dll
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\bin\Debug\net8.0\Ex.10.pdb
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.AssemblyInfoInputs.cache
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.AssemblyInfo.cs
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.sourcelink.json
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.dll
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\refint\Ex.10.dll
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.pdb
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\Ex.10.genruntimeconfig.cache
+C:\Users\nasci\Desktop\source\repos\While-do-While-e-for\Ex.10\obj\Debug\net8.0\ref\Ex.10.dll

@@ -1,11 +1,11 @@
 ﻿// 1. Um funcionário deseja contar quantos dias de trabalho ele teve em um mês. Para isso, ele deve inserir os dias trabalhados (de 1 a 31) até que digite 0, que indica que terminou de informar os dias. O aluno deve implementar essa contagem utilizando as estruturas de repetição while, do while e for. 
 
 // While 
-
+/*
 int diasTrabalhados = 0;
 int dia;
 
-/*Console.WriteLine("Para iniciar a contagem de dias trabalhados ,informe o dia trabalhado (digite 0 para sair): ");
+Console.WriteLine("Para iniciar a contagem de dias trabalhados ,informe o dia trabalhado (digite 0 para sair): ");
 
 while (true)
 {
@@ -17,8 +17,9 @@ while (true)
 Console.WriteLine($"Total de dias trabalhados: {diasTrabalhados}");*/
 
 // do while
-
-/*diasTrabalhados = 0;
+/*
+int diasTrabalhados = 0;
+int dia;
 
 do
 {
@@ -29,13 +30,15 @@ do
 Console.WriteLine($"Total de dias trabalhados: {diasTrabalhados}");*/
 
 // for
+/*
+int diasTrabalhados = 0;
+int dia;
 
-diasTrabalhados = 0;
- for (;;)
+for (;;)
 {
     Console.WriteLine("Para iniciar a contagem de dias trabalhados ,informe o dia trabalhado (digite 0 para sair): ");
     dia = Convert.ToInt32(Console.ReadLine());
     if (dia == 0) break;
     diasTrabalhados++;  
 }
- Console.WriteLine($"Total de dias trabalhados: {diasTrabalhados}");
+ Console.WriteLine($"Total de dias trabalhados: {diasTrabalhados}"); */

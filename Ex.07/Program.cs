@@ -26,7 +26,6 @@ do
     Console.WriteLine("Digite as distâncias percorridas a cada dia.  (valor negativo para encerrar.)");
     distancia = Convert.ToDouble(Console.ReadLine());
     if (distancia >= 0) distanciaTotal += distancia;
-
 } while (distancia >= 0);
 
 Console.WriteLine($"Distância total percorrida: {distanciaTotal} km");*/
