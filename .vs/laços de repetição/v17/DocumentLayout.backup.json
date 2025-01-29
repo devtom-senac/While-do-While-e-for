@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D9A8AF3-9F70-4FA0-8701-A13EC5394094}|Ex.10\\Ex.10.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D9A8AF3-9F70-4FA0-8701-A13EC5394094}|Ex.10\\Ex.10.csproj|solutionrelative:ex.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4C04C1-9DA5-4B30-88D7-0D6AFE5D02CE}|Ex.06\\Ex.06.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4C04C1-9DA5-4B30-88D7-0D6AFE5D02CE}|Ex.06\\Ex.06.csproj|solutionrelative:ex.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4661E7C0-ACCD-4011-AF3D-AE6C9163D737}|Ex.07\\Ex.07.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4661E7C0-ACCD-4011-AF3D-AE6C9163D737}|Ex.07\\Ex.07.csproj|solutionrelative:ex.07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C24334-D918-404B-B503-439AD65C3557}|Ex.08\\Ex.08.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C24334-D918-404B-B503-439AD65C3557}|Ex.08\\Ex.08.csproj|solutionrelative:ex.08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E7AEE2E-BA59-4C07-AB27-ABBC0ACAB52A}|Ex.09\\Ex.09.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7AEE2E-BA59-4C07-AB27-ABBC0ACAB52A}|Ex.09\\Ex.09.csproj|solutionrelative:ex.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4661E7C0-ACCD-4011-AF3D-AE6C9163D737}|Ex.07\\Ex.07.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4661E7C0-ACCD-4011-AF3D-AE6C9163D737}|Ex.07\\Ex.07.csproj|solutionrelative:ex.07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D9A8AF3-9F70-4FA0-8701-A13EC5394094}|Ex.10\\Ex.10.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A8AF3-9F70-4FA0-8701-A13EC5394094}|Ex.10\\Ex.10.csproj|solutionrelative:ex.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB42278E-7A42-40B4-874A-134BE433048A}|Ex.04\\Ex.04.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{04EFB225-CFB3-4E96-A049-C37968D935E1}|Ex.02\\Ex.02.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04EFB225-CFB3-4E96-A049-C37968D935E1}|Ex.02\\Ex.02.csproj|solutionrelative:ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C24334-D918-404B-B503-439AD65C3557}|Ex.08\\Ex.08.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C24334-D918-404B-B503-439AD65C3557}|Ex.08\\Ex.08.csproj|solutionrelative:ex.08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF4C04C1-9DA5-4B30-88D7-0D6AFE5D02CE}|Ex.06\\Ex.06.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF4C04C1-9DA5-4B30-88D7-0D6AFE5D02CE}|Ex.06\\Ex.06.csproj|solutionrelative:ex.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7663C845-CF6C-48DE-B583-9FCAD97F9275}|Ex.05\\Ex.05.csproj|c:\\users\\nasci\\desktop\\source\\repos\\while-do-while-e-for\\ex.05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.06\\Program.cs",
               "RelativeDocumentMoniker": "Ex.06\\Program.cs",
@@ -77,11 +77,12 @@
               "RelativeToolTip": "Ex.06\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:55:36.511Z"
+              "WhenOpened": "2025-01-22T21:55:36.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.07\\Program.cs",
               "RelativeDocumentMoniker": "Ex.07\\Program.cs",
@@ -94,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.08\\Program.cs",
               "RelativeDocumentMoniker": "Ex.08\\Program.cs",
@@ -107,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.09\\Program.cs",
               "RelativeDocumentMoniker": "Ex.09\\Program.cs",
@@ -120,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.04\\Program.cs",
               "RelativeDocumentMoniker": "Ex.04\\Program.cs",
@@ -133,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.02\\Program.cs",
               "RelativeDocumentMoniker": "Ex.02\\Program.cs",
@@ -158,20 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.10\\Program.cs",
               "RelativeDocumentMoniker": "Ex.10\\Program.cs",
-              "ToolTip": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.10\\Program.cs*",
-              "RelativeToolTip": "Ex.10\\Program.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.10\\Program.cs",
+              "RelativeToolTip": "Ex.10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T21:57:15.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasci\\Desktop\\source\\repos\\While-do-While-e-for\\Ex.01\\Program.cs",
               "RelativeDocumentMoniker": "Ex.01\\Program.cs",

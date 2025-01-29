@@ -1,8 +1,8 @@
 ﻿// 4.Um grupo de amigos deseja calcular a idade média deles. Para isso, o aluno deve pedir que o usuário insira as idades e calcule a média até que o usuário digite 0. A solução deve ser implementada usando while, do while e for. 
 
-// while 
-
-/*double somaIdades = 0;
+// usando while 
+/*
+double somaIdades = 0;
 int contador = 0;
 int idade;
 
@@ -17,11 +17,11 @@ while (true)
 }
 
 double mediaIdade = contador > 0 ? somaIdades / contador : 0;
-Console.WriteLine($"Média das idades: {mediaIdade}");*/
+Console.WriteLine($"Média das idades: {mediaIdade}"); */
 
-// do while 
-
-/*double somaIdades = 0;
+// usando do while 
+/*
+double somaIdades = 0;
 int contador = 0;
 int idade;
 
@@ -37,11 +37,11 @@ do
 } while (idade != 0);
 
 double mediaIdade = contador > 0 ? somaIdades / contador : 0;
-Console.WriteLine($"Média das idades: {mediaIdade}");*/
+Console.WriteLine($"Média das idades: {mediaIdade}"); */
 
-// for
-
-/*double somaIdades = 0;
+// usando for
+/*
+double somaIdades = 0;
 int contador = 0;
 int idade;
 
@@ -55,4 +55,4 @@ for (; ;)
 }
 
 double mediaIdade = contador > 0 ? somaIdades / contador : 0;
-Console.WriteLine($"Média das idades: {mediaIdade}");*/
+Console.WriteLine($"Média das idades: {mediaIdade}"); */

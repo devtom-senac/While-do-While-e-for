@@ -1,6 +1,7 @@
 ﻿// 2. Um usuário quer calcular suas despesas mensais. O exercício consiste em solicitar ao usuário que insira suas despesas até que ele digite um valor negativo, sinalizando o fim da entrada. O aluno deve somar as despesas e apresentar o total, utilizando while, do while e for. 
 
-/*while
+// usando while
+/* 
 double despesas = 0;
 double despesa;
 
@@ -12,9 +13,11 @@ while (true)
     if (despesa < 0) break;
     despesas += despesa;
 }
+
 Console.WriteLine($"Total de despesas: {despesas}");*/
 
-/*do while 
+// usando do while 
+/* 
 double despesas = 0;
 double despesa;
 
@@ -26,7 +29,8 @@ do
 } while (despesa >= 0);
 Console.WriteLine($"Total de despesas: {despesas}");*/
 
-//for 
+// usando for 
+/*
 double despesas = 0;
 double despesa;
 
@@ -37,5 +41,5 @@ for (;;)
     if (despesa < 0) break;
     despesas += despesa;
 }
-Console.WriteLine($"Total de despesas: {despesas}");
+Console.WriteLine($"Total de despesas: {despesas}"); */
 
